@@ -10,14 +10,22 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.59.1",
-    "allure-playwright": "^3.7.2",
-    "playwright": "^1.59.1"
+    "@playwright/test": "^1.60.0",
+    "allure-playwright": "^3.8.0",
+    "playwright": "^1.60.0"
   },
   "directories": {
     "test": "tests"
   },
   "dependencies": {
     "playwright-core": "^1.59.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishu26v-cmd/vaishali.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishu26v-cmd/vaishali/issues"
+  },
+  "homepage": "https://github.com/vishu26v-cmd/vaishali#readme"
 }
